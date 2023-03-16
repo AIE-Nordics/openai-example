@@ -12,3 +12,5 @@ Very simple example that show a webapp interacting with openai API
 - npm start
 
 Check it out on localhost:3000
+
+## firebase
